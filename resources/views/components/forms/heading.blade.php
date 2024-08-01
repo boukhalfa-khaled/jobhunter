@@ -1,0 +1,1 @@
+<h3 class=" w-[300px] mx-auto text-center uppercase font-bold py-8 text-2xl"> {{$slot}} </h3>
